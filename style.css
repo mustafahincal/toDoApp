@@ -105,5 +105,6 @@ input {
 }
 
 .addBtn:hover {
-    background-color: #583131;
+    background-color: #111;
+    color: #fff;
 }
