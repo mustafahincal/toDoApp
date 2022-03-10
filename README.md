@@ -1,6 +1,6 @@
 # To Do List
 
-![](./img.jpg)
+![](./screenshots/img.jpg)
 
 ## Used Technologies
 - HTML
