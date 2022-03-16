@@ -1,12 +1,14 @@
 # To Do List
 
-![](./screenshots/img.jpg)
+![](./gif/todogif%20.gif)
 
 ## Used Technologies
-- HTML
-- CSS
-- Javascript
-- Bootstrap
+
+-   HTML
+-   CSS
+-   Javascript
+-   Bootstrap
 
 ## Vercel
-Here's how it looks in Vercel : [ToDoApp](https://to-do-application-six.vercel.app/)
+
+Here's how it looks in Vercel : [To Do App](https://to-do-application-six.vercel.app/)
